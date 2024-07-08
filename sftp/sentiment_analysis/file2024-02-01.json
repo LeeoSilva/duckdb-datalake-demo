@@ -1,0 +1,18 @@
+{
+    "id": "evt-123456789",
+    "timestamp": "2024-04-25T14:30:00Z",
+    "text": "Adoro as joias deste marketplace! Sempre encontro peças únicas e de ótima qualidade.",
+    "sentiment": {
+        "score": 0.95,
+        "label": "positivo"
+    },
+    "product": {
+        "id": "prod-987654321",
+        "name": "Bracelete Artesanal de Prata"
+    },
+    "user": {
+        "id": "usr-123456789",
+        "username": "artlover"
+    },
+    "source": "Twitter"
+}

@@ -1,0 +1,18 @@
+{
+    "id": "evt-987654321",
+    "timestamp": "2024-04-26T10:15:00Z",
+    "text": "Muito decepcionado com o serviço de entrega deste marketplace, demorou semanas e o produto chegou danificado.",
+    "sentiment": {
+        "score": 0.2,
+        "label": "negativo"
+    },
+    "product": {
+        "id": "prod-123456789",
+        "name": "Vaso de Cerâmica Pintado à Mão"
+    },
+    "user": {
+        "id": "usr-987654321",
+        "username": "ceramicfan"
+    },
+    "source": "Facebook"
+}

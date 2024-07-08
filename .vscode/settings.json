@@ -1,0 +1,17 @@
+{
+    "workbench.colorCustomizations": {
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#ee909d",
+        "statusBar.background": "#e76476",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#e0384f",
+        "statusBarItem.remoteBackground": "#e76476",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#e76476",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#e7647699",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#e76476",
+    "sqlfluff.dialect": "duckdb"
+}

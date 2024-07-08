@@ -1,0 +1,7 @@
+CREATE SEQUENCE IF NOT EXISTS seq_stores_id START 1;
+
+CREATE OR REPLACE TABLE stores (
+    id INT PRIMARY KEY DEFAULT NEXTVAL('seq_stores_id'),
+    name VARCHAR(255) NOT NULL,
+    seller_id INT NOT NULL
+);

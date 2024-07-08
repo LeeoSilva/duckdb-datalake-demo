@@ -1,0 +1,9 @@
+CREATE SEQUENCE IF NOT EXISTS seq_customer_id START 1;
+
+CREATE OR REPLACE TABLE customers (
+    id INT PRIMARY KEY DEFAULT NEXTVAL('seq_customer_id'),
+    username VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    phone VARCHAR(255) NOT NULL,
+    address VARCHAR(255) NOT NULL
+);
